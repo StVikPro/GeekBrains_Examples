@@ -1,0 +1,15 @@
+/Volumes/HDD/GeekBrains/3 Знакомство с языками программирования /Examples/Example001_Hello Console/bin/Debug/net6.0/Example001_Hello Console
+/Volumes/HDD/GeekBrains/3 Знакомство с языками программирования /Examples/Example001_Hello Console/bin/Debug/net6.0/Example001_Hello Console.deps.json
+/Volumes/HDD/GeekBrains/3 Знакомство с языками программирования /Examples/Example001_Hello Console/bin/Debug/net6.0/Example001_Hello Console.runtimeconfig.json
+/Volumes/HDD/GeekBrains/3 Знакомство с языками программирования /Examples/Example001_Hello Console/bin/Debug/net6.0/Example001_Hello Console.dll
+/Volumes/HDD/GeekBrains/3 Знакомство с языками программирования /Examples/Example001_Hello Console/bin/Debug/net6.0/Example001_Hello Console.pdb
+/Volumes/HDD/GeekBrains/3 Знакомство с языками программирования /Examples/Example001_Hello Console/obj/Debug/net6.0/Example001_Hello Console.csproj.AssemblyReference.cache
+/Volumes/HDD/GeekBrains/3 Знакомство с языками программирования /Examples/Example001_Hello Console/obj/Debug/net6.0/Example001_Hello Console.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/HDD/GeekBrains/3 Знакомство с языками программирования /Examples/Example001_Hello Console/obj/Debug/net6.0/Example001_Hello Console.AssemblyInfoInputs.cache
+/Volumes/HDD/GeekBrains/3 Знакомство с языками программирования /Examples/Example001_Hello Console/obj/Debug/net6.0/Example001_Hello Console.AssemblyInfo.cs
+/Volumes/HDD/GeekBrains/3 Знакомство с языками программирования /Examples/Example001_Hello Console/obj/Debug/net6.0/Example001_Hello Console.csproj.CoreCompileInputs.cache
+/Volumes/HDD/GeekBrains/3 Знакомство с языками программирования /Examples/Example001_Hello Console/obj/Debug/net6.0/Example001_Hello Console.dll
+/Volumes/HDD/GeekBrains/3 Знакомство с языками программирования /Examples/Example001_Hello Console/obj/Debug/net6.0/refint/Example001_Hello Console.dll
+/Volumes/HDD/GeekBrains/3 Знакомство с языками программирования /Examples/Example001_Hello Console/obj/Debug/net6.0/Example001_Hello Console.pdb
+/Volumes/HDD/GeekBrains/3 Знакомство с языками программирования /Examples/Example001_Hello Console/obj/Debug/net6.0/Example001_Hello Console.genruntimeconfig.cache
+/Volumes/HDD/GeekBrains/3 Знакомство с языками программирования /Examples/Example001_Hello Console/obj/Debug/net6.0/ref/Example001_Hello Console.dll
