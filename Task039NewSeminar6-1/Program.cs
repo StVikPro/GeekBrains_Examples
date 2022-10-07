@@ -6,8 +6,10 @@
 89126 -> 5*/
 Console.Clear();
 
+Console.WriteLine($"Введите число: ");
 int num = int.Parse(Console.ReadLine()!);
 Console.WriteLine($"В числе {num} число знаков равно {CountDigits(num)}");
+
 
 int CountDigits(int number, int counter = 0)
 {
